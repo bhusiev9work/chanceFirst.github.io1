@@ -1,0 +1,3 @@
+[0601/083724.657:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0601/083724.662:ERROR:exception_snapshot_win.cc(98)] thread ID 5840 not found in process
+[0601/083724.669:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: Попытка доступа к процессу, выполняющему процедуру завершения. (0xc000010a)
